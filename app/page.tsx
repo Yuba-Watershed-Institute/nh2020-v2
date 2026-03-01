@@ -1,65 +1,90 @@
-import Image from "next/image";
+import Image from 'next/image';
+import Link from 'next/link';
+
+const navCards = [
+  { href: '/summary', label: 'Executive Summary', icon: '📋' },
+  { href: '/chapter1', label: 'Chapter I: Introduction', icon: '📖' },
+  { href: '/chapter2', label: 'Chapter II: Methods', icon: '🔬' },
+  { href: '/chapter3', label: 'Chapter III: Results', icon: '📊' },
+  { href: '/chapter4', label: 'Chapter IV: Information Sources', icon: '📚' },
+  { href: '/tables-figures', label: 'Tables, Figures & Appendices', icon: '🗺️' },
+];
 
 export default function Home() {
   return (
-    <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
+    <div>
+      {/* Cover image banner */}
+      <div className="overflow-hidden rounded-sm mb-6 -mx-4 lg:-mx-8">
         <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
+          src="/images/cover_top.gif"
+          alt="Nevada County Natural Resources Report"
+          width={1200}
+          height={68}
+          className="w-full h-auto"
           priority
         />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
+      </div>
+
+      <div className="flex flex-col md:flex-row gap-8">
+        {/* Navigation cards */}
+        <nav className="w-full md:w-48 shrink-0">
+          <ul className="space-y-1">
+            {navCards.map(({ href, label, icon }) => (
+              <li key={href}>
+                <Link
+                  href={href}
+                  className="flex items-center gap-2 px-3 py-2 rounded text-xs font-bold uppercase tracking-wide text-gray-800 hover:text-[#cc6600] transition-colors"
+                  style={{ fontVariant: 'small-caps' }}
+                >
+                  <span>{icon}</span>
+                  <span>{label}</span>
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </nav>
+
+        {/* Divider */}
+        <div className="hidden md:block w-px bg-[#CCCC99]" />
+
+        {/* Welcome content */}
+        <div className="flex-1 min-w-0">
+          <div className="prose prose-sm max-w-none">
+            <p>
+              <strong>
+                Prepared for: Nevada County Planning Department, 950 Maidu Avenue, Nevada City, CA 95959
+              </strong>
+            </p>
+            <p>
+              <strong>Prepared by:</strong>{' '}
+              <a href="mailto:tbeedy@jps.net">Dr. Edward C. Beedy</a>, Sierra Business Council
+              Scientific Coordinator;{' '}
+              <a href="mailto:brussard@biodiversity.unr.edu">Dr. Peter Brussard</a>, University of
+              Nevada, Reno; Chairman, Scientific Advisory Committee
+            </p>
+
+            <h4>Acknowledgments</h4>
+            <p>
+              The authors extend their gratitude to the following peer reviewers who provided detailed
+              comments and fact-checking of the entire document on short notice: Ms. Vicki Campbell,
+              U.S. Fish and Wildlife Service, Sacramento; Dr. Frank Davis, Donald Bren School of
+              Environmental Science, University of California Santa Barbara; Mr. Jeff Finn, Regional
+              Wildlife Biologist, California Department of Fish and Game, Nevada County; Dr. Jim
+              Gaither, The Nature Conservancy, California Field Office, San Francisco; Dr. John Harris,
+              Biology Department, Mills College, Oakland; Mr. John Koltun, Geographic Resource
+              Solutions, Anchorage, Alaska; Dr. William F. Laudenslayer, Jr., U.S. Forest Service,
+              Fresno; Dr. Thomas Parker, Biology Department, San Francisco State University; Dr.
+              Michael Soule, Professor Emeritus, College of Natural Resources, University of California,
+              Santa Cruz; and Dr. Peter Stine, U.S. Forest Service, Sacramento.
+            </p>
+
+            <p className="text-xs text-gray-600">
+              ©2002, Nevada County Planning Department. Contact:{' '}
+              <a href="mailto:Kateri.Harrison@co.nevada.ca.us">Kateri.Harrison@co.nevada.ca.us</a>
+            </p>
+          </div>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
+      </div>
     </div>
   );
 }

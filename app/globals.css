@@ -1,26 +1,87 @@
 @import "tailwindcss";
+@plugin "@tailwindcss/typography";
 
 :root {
+  --brand-tan: #CCCC99;
+  --brand-dark: #4a5722;
+  --hover-orange: #cc6600;
   --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --foreground: #1a1a1a;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+/* Legacy HTML content styles */
+.report-content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0.75rem auto;
+}
+
+/* Float images only on sm+ screens */
+.img-float-left,
+.img-float-right {
+  float: none;
+  display: block;
+  margin: 0.75rem auto;
+}
+
+@media (min-width: 640px) {
+  .img-float-left {
+    float: left;
+    display: inline;
+    margin-top: 0.25rem;
+    margin-right: 1.25rem;
+    margin-bottom: 0.5rem;
+    margin-left: 0;
+  }
+
+  .img-float-right {
+    float: right;
+    display: inline;
+    margin-top: 0.25rem;
+    margin-left: 1.25rem;
+    margin-bottom: 0.5rem;
+    margin-right: 0;
+  }
+}
+
+/* Override fixed-width tables */
+.report-content table {
+  width: 100% !important;
+  max-width: 100%;
+  overflow-x: auto;
+  display: block;
+}
+
+.report-content table table {
+  display: table;
+}
+
+/* Normalize font tags */
+.report-content font {
+  font-size: inherit;
+}
+
+/* Make links consistent */
+.report-content a {
+  color: var(--brand-dark);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.report-content a:hover {
+  color: var(--hover-orange);
+  text-decoration: underline;
+}
+
+/* Nav link active state */
+.nav-link-active {
+  color: #666600 !important;
+  pointer-events: none;
 }
