@@ -27,7 +27,7 @@ export default function Home() {
 
       <div className="flex flex-col md:flex-row gap-8">
         {/* Navigation cards */}
-        <nav className="w-full md:w-48 shrink-0">
+        <nav className="w-full md:w-48 shrink-0 lg:hidden">
           <ul className="space-y-1">
             {navCards.map(({ href, label, icon }) => (
               <li key={href}>
@@ -45,7 +45,7 @@ export default function Home() {
         </nav>
 
         {/* Divider */}
-        <div className="hidden md:block w-px bg-[#CCCC99]" />
+        <div className="hidden md:block lg:hidden w-px bg-[#CCCC99]" />
 
         {/* Welcome content */}
         <div className="flex-1 min-w-0">
