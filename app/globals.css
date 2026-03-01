@@ -23,16 +23,9 @@ body {
   margin: 0.75rem auto;
 }
 
-/* Float images only on sm+ screens */
-.img-float-left,
-.img-float-right {
-  float: none;
-  display: block;
-  margin: 0.75rem auto;
-}
-
+/* Float images on sm+ screens — qualified to beat .report-content img specificity */
 @media (min-width: 640px) {
-  .img-float-left {
+  .report-content .img-float-left {
     float: left;
     display: inline;
     margin-top: 0.25rem;
@@ -41,7 +34,7 @@ body {
     margin-left: 0;
   }
 
-  .img-float-right {
+  .report-content .img-float-right {
     float: right;
     display: inline;
     margin-top: 0.25rem;
