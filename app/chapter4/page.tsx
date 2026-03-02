@@ -9,7 +9,7 @@ const html = `
       <h1><br>
       <span class="header1">Chapter IV: Information Sources</span>
       </h1>
-      <h2><b>Literature Cited</b></h2>
+      <h2 id="c4-literature"><b>Literature Cited</b></h2>
       <p>Abrams, L. R. 1923-1960. An Illustrated Flora of the Pacific States: Washington, Oregon, and California. Stanford University Press. Stanford, CA. 4 vols. </p>
       <p>
 Agee, J. K. 1990. The historical role of fire in Pacific Northwest forests. In: Walstad, J.D., et.al., eds. Natural and prescribed fire in Pacific Northwest Forests. Corvallis, OR: Oregon State University Press.</p>
