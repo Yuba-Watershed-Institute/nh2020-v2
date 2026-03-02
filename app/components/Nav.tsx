@@ -3,6 +3,8 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useState } from 'react';
+import NavTOC from './NavTOC';
+import NavIndex from './NavIndex';
 
 const navLinks = [
   { href: '/', label: 'Home' },
@@ -51,13 +53,17 @@ export default function Nav() {
                 );
               })}
             </ul>
+            <div className="border-t border-[#CCCC99] px-3 py-2">
+              <NavTOC />
+              <NavIndex />
+            </div>
           </nav>
         </div>
       )}
 
       {/* Desktop sidebar */}
       <nav className="hidden lg:block w-52 shrink-0 border-r border-[#CCCC99]">
-        <div className="sticky top-0 pt-6 pb-4 px-3">
+        <div className="sticky top-0 max-h-screen overflow-y-auto pt-6 pb-4 px-3">
           <ul className="space-y-1">
             {navLinks.map(({ href, label }) => {
               const active = pathname === href;
@@ -78,6 +84,10 @@ export default function Nav() {
               );
             })}
           </ul>
+          <div className="mt-3 border-t border-[#CCCC99] pt-2">
+            <NavTOC />
+            <NavIndex />
+          </div>
         </div>
       </nav>
 

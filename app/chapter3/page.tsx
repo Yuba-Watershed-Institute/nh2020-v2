@@ -9,9 +9,9 @@ const html = `
       <h1><br>
       <span class="header1">Chapter III: Results</span>
       </h1>
-      <h2>Species Occurrence and Habitat Relationships<b><font size=4> </font></b></h2>
+      <h2 id="c3-species-occurrence">Species Occurrence and Habitat Relationships<b><font size=4> </font></b></h2>
       <p><img src="/images/sprigflowers.jpg" style="max-width:300px" class="img-float-left">The geological, topographic, and climatic diversity of Nevada County contribute to its high plant and animal diversity. The county contains a complete east-west transect of the northern Sierra, from just above the Central Valley grasslands to the Great Basin vegetation on the Nevada border. The extent, elevation range, and numbers of Redlist and Yellowlist plants and animal species with documented occurrence in each of Nevada County’s 27 large-patch ecosystems are summarized in Table 3-1.  Discussions of plant and animal occurrence in large-patch ecosystems of the county are provided in the following sections.</p>
-      <h3>
+      <h3 id="c3-plant-diversity">
 <i>Plant Diversity </i></h3>
       <p>Nevada County supports a rich flora, with 1,814 taxa of California’s approximately 7,000 species, subspecies, and varieties documented within the county’s boundaries (Appendix I, CalFlora 2002). This represents about 26% of the California flora growing on &lt;0.6% of the state’s total land area. A total of 115 plant families, representing 582 genera, are included in the flora of Nevada County. Of the 1,814 plant taxa found in Nevada County, about 19% are naturalized non-native species. Native taxa are those believed to have existed in California before initial visitation and colonization by Europeans (Hickman 1993). Ferns and fern-allies make up a little over 2% of the local flora; gymnosperms (conifers) total only 1% of the total number of taxa. Flowering plants make up over 96% of the taxa, which includes 22% monocots (i.e., grasses and lilies) and 74% dicots (other flowering plants). Fifty-six species of Redlist or Yellowlist plants have documented occurrences in Nevada County (Appendix II). </p>
       <p>
@@ -33,7 +33,7 @@ Disjunct populations and localized plant occurrences may not be rare from a stat
 <i>Poorly-Represented Species and Ecosystems</i></p>
       <p>
 Certain species and habitats are conspicuously absent from Nevada County.  For example, Chamise-Redshank chaparral forms a nearly continuous band along the Sierra foothills and other parts of the state (Mayer and Laudenslayer 1988), but skips Nevada County entirely, with the exception of a reported small stand in the South Yuba River canyon (Olmstead pers. comm.). No carbonate or highly alkaline soils are found here (USDA Forest Service 1994, Brittan 1993), soils that are associated with many rare and endemic taxa in other regions. Nor does the county host any vernal pools of large size or significance, with the exception of a few pools in northeastern Nevada County (USFS 2000, CDFG website). Relatively little Fresh Emergent Wetland occurs in the foothill region of the county, and much of what does occur is dependent to some degree on intentional or unintentional releases or diversions of water by the Nevada Irrigation District (NID), including ditch leaks, manmade ponds, and irrigated pastures.</p>
-      <h3>
+      <h3 id="c3-redlist-plants">
 <i>Redlist Plants</i></h3>
       <p>Only four plant species in Nevada County are “Redlisted” (i.e., listed as either Threatened or Endangered under the federal or state Endangered Species Acts [CNDDB 2002], Appendix II). Of these four listed species, the Tahoe yellow cress has probably been extirpated from the county.  Tahoe yellow cress is documented by a single, historic collection in Truckee that is believed extirpated; little, if any, suitable habitat is still present for this species. The general vicinity of the collection area was searched in 1981, and no plants were observed (CNDDB 2002a). No surveys for this or any other Redlist or Yellowlist species were conducted for this study.  The distribution and status of the remaining three Redlist species in Nevada County are discussed below.</p>
       <p>
@@ -46,14 +46,14 @@ The entire global distribution of Scadden Flat checkerbloom is restricted to a f
 Two other very rare Redlist species were previously only known from an area near Eldorado Hills and Cameron Park in El Dorado County until they were discovered southwest of Grass Valley. Both are endemic to chaparrals on Gabbrodiorite Soils, and they appear to decline in the absence of fire (USFWS 1998).  Consequently, both species appear to respond favorably to light and  manmade disturbances. The Stebbins’ morning-glory was stimulated to germinate by light disking behind a county-owned facility (Troutwine pers. comm.). </p>
       <p>
 The Pine Hill flannelbush is a species in a genus known for interbreeding, and there is some question among expert botanists as to the exact taxonomic status of this species. The local occurrences of this species appear to be intermediate between the common species and the rare Pine Hill flannelbush, according to the author of the species description, the late Dr. Charles Lloyd (Lloyd 1992).  CNDDB (2002a) states that the local occurrences are “most probably a morphologically distinct variant of Pine Hill flannelbush, or a hybrid of Pine Hill flannelbush and the common species.” In a letter to a local botanist working for the County Agricultural Commissioner’s office, that the local decumbent forms may be within the normal range of variation for the rare taxon, that they are not the common species, but may be intermediate between the two (Lloyd 1992). The local occurrences also tend to include individuals of both the common and decumbent forms. </p>
-      <h3>
+      <h3 id="c3-yellowlist-plants">
 <i>Yellowlist Plants</i></h3>
       <p>The Yellowlist Cedar Crest popcornflower is another endemic plant to Nevada County.  This species is known only from a 1937 collection near Cedar Ridge and another historic collection in extreme western Nevada County.  It has not been collected since, but the taxon was recently moved from a CNPS List 1A (presumed extinct) to a CNPS List 3 (need more information) until taxonomic questions are resolved (CNPS 2001).</p>
       <p>
 Three other very rare Yellowlist species, Torrey’s buckwheat, starved daisy, and long-petaled lewisia, occur in rock or barren habitats near the Sierra crest and primarily on Forest Service lands (Appendix II). These species are not endemic to Nevada County, but two have a global distribution restricted to the Tahoe National Forest.  Public ownership does not necessarily ensure protection. For example, several occurrences of a rare lewisia have been the target of plant poachers recently, with at least one population almost entirely destroyed. Several other species have been impacted by plant poachers, particularly insectivorous plants and members of the lily and orchid families (CNPS file data).</p>
       <p>
 Recently, many non-vascular species, including bryophytes (mosses) and lichens, have been added to the CDFG and CNPS inventories of rare plants. Four of these species (all mosses) have documented occurrences in Nevada County (CNDDB 2002a, CalFlora 2002). Three of these species, <i>Meesia triquetra, M. uliginosa, and Bruchia bolanderi </i>have known occurrences only in the higher elevations of the county.  The fourth, a “copper moss”, is known from an occurrence in rocky metamorphic areas of a stream canyon at the middle elevations. Specialists at the U.C. Berkeley Herbarium and with the California Lichen Society (CALS) noted a conspicuous absence of lichen specimens from Nevada County, and a comprehensive flora or checklist for either bryophytes or lichens is not available.  The first comprehensive treatment of the mosses of California is still in draft format (Norris, unpublished). Consequently, information on rare lichens and mosses throughout the Sierra is fragmentary compared to most vascular plants (Shevock 1996).</p>
-      <h3>
+      <h3 id="c3-plant-ecosystems">
 <i>Redlist and Yellowlist Plant and Ecosystem Relationships </i></h3>
       <p>A total of 27 large-patch ecosystem types were mapped for Nevada County (Table 2-1). Although the mapping of vegetation in Nevada County was based on the CWHR model, equivalents in Holland (1986) and Sawyer and Keeler-Wolf (1995) were noted when encountered in the field, and are provided as a cross-walk to CWHR and NCWHR in Table 2-2.</p>
       <p>
@@ -68,7 +68,7 @@ Nevada County also contains approximately 4,550 acres of Serpentinite Soils, and
 Ponderosa Pine and Mixed-Conifer Forests also have potential to support Yellowlist plant species.  Most of the seven Yellowlist plants associated with Ponderosa Pine Forests (Figure 3-2) occur in forest openings, such as small grassy clearings, open flats, rock outcrops, or old road cuts where there is ample light and/or reduced competition from other plants. Few species are associated with the deep shade in the interior of conifer forests. With the exception of one rare orchid, six of the seven Yellowlist taxa associated with Mixed-Conifer Forest also generally occur in canopy openings. </p>
       <p>
 Large-patch ecosystems with little to no potential for Redlist or Yellowlist plants include all the man-made habitats such as Orchards, Vineyards, Croplands, and Urban areas (Figures 3-1 and 3-2). However, several small remnants of serpentine or gabbro soils in urbanized areas support populations of rare plants. Several natural ecosystems have little potential to support these species including Riverine, Lacustrine, Oak-Foothill Pine (except on serpentine or gabbrodiorite soils), Foothill Riparian, Eastside Riparian, Eastside Pine, and Subalpine Conifer (Appendix III).</p>
-      <h3>
+      <h3 id="c3-large-patch-ownership">
 <i>Large-Patch Ecosystems and Land Ownership</i></h3>
       <p>The GIS-based maps and summaries of the distribution of NCWHR types were further defined by ownership, public or private lands in Nevada County (Table 3-1). This summary does not define levels of protection or consider the current ecological condition or the effects of specific land management practices on these ecosystems.  Rather, it is included to provide a broad picture of the distribution and ownership patterns of these large-patch ecosystems.  This summary indicates a concentration of private ownership in the foothills (i.e., elevation Zones 1 and 2) of Nevada County.  About 10% of the Foothill Hardwood Woodlands in the county are in public ownership. A total of 10% of the Foothill Riparian Woodlands, 23% of the Foothill Chaparral, 4% of the Annual Grassland, and 9% of the Oak-Foothill Pine ecosystems in the county are in public ownership (Table 3-1). </p>
       <p>
@@ -77,7 +77,7 @@ In Nevada County, 28% of the Montane Hardwood Woodlands, including canyon live o
 While a relatively large number of the Zone 3 large-patch ecosystems are in public ownership as compared to Zones 1 and 2, Montane Meadows, a habitat rich in plant diversity, are 53% in public ownership. Among habitats east of the Sierra crest in Nevada County (Zone 4), Eastside Scrub ownership is 34% public, while Eastside Pine is 50% in public ownership (Table 3-1). </p>
       <p>
 Serpentine and Gabbrodiorite soils (see “Small-Patch Ecosystems,” below), biological islands of interesting and endemic plant and butterfly species, are also predominantly in private ownership. Approximately 13% of the county’s Gabbrodiorite Soils are in public ownership, while Serpentine Soils are about 30% in public ownership (Table 3-3). </p>
-      <h3>
+      <h3 id="c3-non-native-plants">
 <i>Non-Native, Invasive Plants</i></h3>
       <p>The flora of Nevada County includes approximately 350 non-native plant species that have naturalized or are found out of cultivation here (CalFlora 2002). Ornamental species growing exclusively in gardens or other landscaped settings are not included in this total. Non-native plants represent about 19% of the county’s total flora (<a href="/tables-figures#t2">Table 3-2</a>). Native taxa are those plant species believed to have existed in California before initial visitation and colonization by Europeans (Hickman 1993). </p>
       <p>
@@ -110,7 +110,7 @@ Yellow star-thistle has been reported to be reproducing above 7,000 feet near Do
 In Eastside Watersheds, particularly those east of Truckee, open, disturbed habitats along the I-80 corridor are particularly well-suited to infestation by invasive weeds. These areas contain the largest infestation of the federally-rated noxious weed, musk thistle, in  California (Kerr pers. comm). Over 600 acres on Boca Hill east of Truckee have been invaded by musk thistle in the area burned during the Boca fire of the 1960s. It is believed that the musk thistle may have been introduced by firefighting equipment. Numerous satellite occurrences of musk thistle are also found in Truckee and Hirschdale. Other “A-rated” noxious weeds found east of Truckee include spotted knapweed, Dalmation toadflax (a horticultural escapee), and single occurrences of halogeton and Scotch thistle (Table 3-2).</p>
       <p>
 The most widespread invasive exotic plant in Eastside Watersheds is the annual grass, cheatgrass. Cheatgrass and other annual grasses promote unnatural fuel conditions and fire cycles which have become self-sustaining. Such impacts reduce the ability of native plants to prosper, and they may cause the unnatural conversion of native vegetation types to non-native annual grassland. This conversion, which has also been induced by post-fire seeding often can lead to increased erosion, because annual grasses and forbs lack the deep roots to prevent more long-term or serious erosion (California Department of Food and Agriculture 2002). Many other invasive non-native species are found in Eastside Watersheds including Russian knapweed, Dyer’s woad, Russian thistle, and white-top (Table 3-2).</p>
-      <h3>
+      <h3 id="c3-vertebrate-diversity">
 <i>Vertebrate Diversity </i></h3>
       <p>Nevada County’s elevational gradient and the large diversity of vegetation types provide habitats for 336 regularly occurring, native vertebrates, 45 introduced species, and 52 extremely rare species (i.e., recorded five or fewer times in the county). Nine other species may occur in the county, based on their known ranges and habitat requirements, but no definite records exist (Appendix IV).</p>
       <p>
@@ -121,7 +121,7 @@ Reptiles are represented by eight families, with 21 native species and no introd
 Birds are by far the most diverse vertebrate group, being represented by 55 families.  These include 212 native species that regularly occur in the county (i.e., at least once per year), and by 43 other species that have extremely rare and/or irregular occurrences.  The county bird list also includes five introduced species: ring-necked pheasant, wild turkey, rock dove (domestic pigeon), European starling, and house sparrow.  One species, Allen’s hummingbird, is suspected to occur in the county, but it has not been documented by specimens or by individuals identified in the hand.  In the field this mostly coastal species (in California) is easily confused with the rufous hummingbird, an abundant, local migrant.  Thus, a total of 260 regular, extremely rare, and introduced bird species have been documented in Nevada County (Appendix IV, Williams 1997). </p>
       <p>
 Mammals are the second most diverse vertebrate group, being represented by 23 families. These include: 74 native species; four extremely rare species (i.e., the Redlist Sierra Nevada red fox and California wolverine, and the Yellowlist Pacific fisher and the unlisted, but rare, western spotted skunk); and six non-native species (i.e., Virginia opossum, muskrat (probably introduced), black rat, Norway rat, house mouse, and wild pig (Appendix IV). </p>
-      <h3>
+      <h3 id="c3-redlist-animals">
 <i>Redlist Animals </i></h3>
       <p>Only 15 animal species with known or potential occurrence in Nevada County are “Redlisted” (i.e., listed as either Threatened, Endangered, or Candidates under the federal or state Endangered Species Acts [CNDDB 2002b]) (<a href="/tables-figures#f2">Figure 3-5</a>).  These species include: valley elderberry longhorn beetle, Central Valley chinook salmon, Central Valley steelhead, Lahontan cutthroat trout, California red-legged frog, bald eagle, Swainson’s hawk, American peregrine falcon, California black rail, sandhill crane, great gray owl, bank swallow, willow flycatcher, Sierra Nevada red fox, and California wolverine.  None of these species is common or widespread, and several have not been documented in the county  (Appendix V).</p>
       <p>
@@ -170,17 +170,17 @@ Sierra Nevada red fox are represented in Nevada County by a single sighting alon
 <i>California Wolverine</i></p>
       <p>
 California wolverines have been documented by experienced agency biologists in the following Nevada County locations: Lower Montez Lake, near Jackson Meadow, Red Mountain, Sagehen Creek basin, Perazzo Canyon, Euer Valley, Sunflower Hill, and Red Mountain (CNDDB 2002a, Tahoe National Forest unpublished data).  The current status of this extremely rare carnivore in the county is unknown.</p>
-      <h3>
+      <h3 id="c3-yellowlist-animals">
 <i>Yellowlist Animals </i></h3>
       <p>A total of 46 Yellowlist vertebrates and 11 invertebrates have known or potential occurrence in Nevada County (Appendix V).  These include: two mollusks, five butterflies, four caddisflies, three fish, four amphibians, two reptiles, 23 birds, and 15 mammals (including 9 bats). While none of these species is protected under the state or federal endangered species acts, they are recognized as sensitive by state (e.g., DFG, CDF) and federal agencies (e.g., USFS, USFWS, BLM, NFMS).</p>
-      <h3>
+      <h3 id="c3-wildlife-habitat">
 <i>Wildlife and Habitat Relationships </i></h3>
       <p>A matrix of the occurrence and breeding status of each of Nevada County’s native fishes, amphibians, reptiles, birds, and mammals in the 27 NCWHR large-patch ecosystems is provided in Appendix VI.  Two types, Foothill Riparian and Montane Riparian Woodlands, support the highest numbers of total species and breeding species (<a href="/tables-figures#f2">Figures 3-3 and 3-4</a>).  Large-patch ecosystems supporting the fewest total species and breeding species are active agricultural lands, including Vineyards, Orchards, and Croplands.</p>
       <p>
 Some large-patch ecosystems are more likely to support Redlist and Yellowlist animals than others. The highest numbers of Redlist vertebrates can be found in Fresh Emergent Wetlands, Montane Meadows, and Barren Areas (Figure 3-5).  The highest numbers of Yellowlist vertebrates can be found in Foothill Hardwood, Montane Hardwood, and Eastside Riparian, Mixed-Conifer and Ponderosa Pine Forests, and Montane Riparian Woodlands (<a href="/tables-figures#f2">Figure 3-6</a>). </p>
       <p>
 <b>Aquatic Ecosystems</b></p>
-      <h3>
+      <h3 id="c3-riverine">
 <i>Riverine</i></h3>
       <p>
 <i>Structural and Ecological Characteristics</i></p>
@@ -273,7 +273,7 @@ Rivers and creeks are among the most altered large-patch ecosystems in the Sierr
 The loss and degradation of Riverine ecosystems are the principal reasons why so many aquatic species of invertebrates, fish, and amphibians in the Sierra Nevada are in decline (Moyle 1996).  Factors contributing to this deterioration include: changes in the timing and amounts of stream flows (i.e., from regulated reservoirs and other diversions); changes in water quality; reduction in structural complexity (from loss of riparian trees, channelization, etc.); changes in stream channels; siltation; and invasions of non-native species (Meehan 1991).</p>
       <p>
 Not all Riverine ecosystems in the Sierra have been affected equally.  In general, high elevation aquatic ecosystems such as small, fishless, alpine streams and ponds have changed little from pristine conditions.  Most of the threatened aquatic ecosystems are found in lowland areas (Moyle 1996). </p>
-      <h3>
+      <h3 id="c3-lacustrine">
 <i>Lacustrine</i></h3>
       <p>
 <i>Structural and Ecological Characteristics</i></p>
@@ -348,7 +348,7 @@ The policy banning fish-stocking of hatchery trout in lakes in the National Park
       <span class="header1">Chapter III: Results</span>
 <span class="continued">(continued, <a href="javascript:history.go(-1);">&lt;&lt; previous page</a></span><b></b><span class="continued">)</span> </h1>
       <p><b>Barren and Herbaceous Ecosystems</b></p>
-      <h3><i>Barren Areas, Rocks, and Cliffs</i></h3>
+      <h3 id="c3-barren-areas"><i>Barren Areas, Rocks, and Cliffs</i></h3>
       <p>Areas mapped as “Barren” include both natural features such as rock outcrops and cliffs as well as historically disturbed surface mines (<a href="/tables-figures#f2">Figure 3-9</a>). In all cases, barren rock or soil dominates the ground layer, and tree and shrub cover is typically sparse or absent. Examples of Barren areas in Nevada County include glaciated granite domes and volcanic ridges near the Sierra crest, and the hydraulic diggings found at the middle elevations. Smaller rock outcrops may be frequent in some areas, but they were usually mapped with the vegetated, large-patch ecosystems that surround them. Natural rock outcrops, cliffs, and other barren features differ in many structural and ecological characteristics from hydraulic diggings, and are discussed in separate sections below. </p>
       <p>
 <i>Structural and Ecological Characteristics</i></p>
@@ -382,7 +382,7 @@ It is likely that a number of bat species use crevices in rock faces for roostin
 Approximately 24,870 acres of Barren Areas (including hydraulic diggings) exist in Nevada County, representing about 4% of the county’s land area; about 35% of this land area is in private ownership (Table 3-1). By virtue of their steep rocky slopes and remote locations, cliff habitats are relatively protected from human disturbance in Nevada County and throughout the state. However, Barren Areas can be impacted indirectly through erosion of disturbed soils above, or by the introduction and spread of noxious weeds (Schwartz et al. 1996).</p>
       <p>
 These ecosystems are distributed throughout the county (Figure 3-9).  The best examples are found in the Castle Peak and Andesite Ridge areas and in the major river drainages of the Middle and South Yuba rivers. Good examples of volcanic cliffs are also found in the lower Truckee River drainage, east of Hirschdale, and on the ridge north of White Rock Creek. The subalpine slopes on the highest peaks in the County—Mt. Lola, Basin Peak, and Castle Peak—are among the ecosystems with the most limited distribution in the county. Most of these high elevation, Barren Areas are primarily in public ownership (<a href="/tables-figures#f2">Figure 3-45</a>).</p>
-      <h3>
+      <h3 id="c3-hydraulic-diggings">
 <i>Hydraulic Diggings</i></h3>
       <p>
 <i>Structural and Ecological Characteristics </i></p>
@@ -405,7 +405,7 @@ Yellowlist amphibians that are known to occur in wetlands associated with hydrau
 <i>Distribution and Status</i></p>
       <p>
 These relics of the hydraulic mining age are concentrated in the middle elevations of Nevada County, and they are often near, or associated with small, historic town sites such as Red Dog or North Columbia (Figure 3-9). Some of the better examples of hydraulic mines can be found at Cherokee Diggings, Malakoff Diggins State Historical Park, Buckeye Diggings, and Columbia Diggings. While historical mining areas are protected through public ownership by BLM or California State Parks, others could be affected by potential new mining projects, and many areas continue to be severely impacted by OHV use. Over 100 to 150 years of time has still not reclaimed many of the barren and eroding slopes and drainages, and these sites may continue to add unnaturally high levels of sediments and heavy metals such as mercury into adjacent wetlands, streams, and rivers (Moyle 1996).</p>
-      <h3>
+      <h3 id="c3-annual-grasslands">
 <i>Annual Grasslands and Irrigated Pastures</i></h3>
       <p>
 <i>Structural and Ecological Characteristics</i></p>
@@ -442,7 +442,7 @@ Annual Grasslands in Nevada County offer valuable foraging and suitable nesting 
 While the original native grassland prairies have been greatly reduced throughout their range, non-native Annual Grasslands remain common both locally and throughout most of lowland California. They are most extensive in the Central Valley but also occur in low valleys or gentle slopes of the Sierra Nevada, Coast Ranges, Transverse Ranges and Peninsular Ranges (Mayer and Laudenslayer 1988).  In Nevada County, non-native Annual Grasslands and grassland-savanna are most common between approximately 270 and 1,500 feet elevation.  However, they also occur as artificial openings in foothill woodlands up to approximately 4,360 feet. More than 31,900 acres of Annual Grasslands and Irrigated Pastures exist in Nevada County, representing about 5% of the county’s land area; about 96% of these lands are in private ownership (Table 3-1).</p>
       <p>
 Remnant examples of native Valley Grasslands, which are often found around the edges of wetlands or moist bottomlands, are patchy and generally have poorly defined boundaries.  Most of the known occurrences in Nevada County are generally less than 1 acre in size. Large stands of native deer grass are generally found in association with seeps or wetlands on poor soils. Native foothill grasslands of upland perennial bunchgrasses are also better represented on poor soils than on deeper agricultural soils. Native grasslands continue to disappear in California with agricultural, residential, and industrial development.  They must be managed with moderate grazing to prevent their conversion to Annual Grasslands. In the absence of grazing, or as a result of disking or very heavy grazing, weedy, non-native annual grasses may out-compete the desired species (Freckman et al. 1979). </p>
-      <h3>
+      <h3 id="c3-montane-meadows">
 <i>Montane Meadows </i></h3>
       <p>
 <i>Structural and Ecological Characteristics</i></p>
@@ -477,7 +477,7 @@ The distribution of Montane Meadows in California is scattered within lower and 
 Approximately 3,710 acres of Montane Meadows exist in Nevada County, representing &lt; 1% of the county’s total land area; approximately 47% of this acreage is on private lands (Table 3-1).  In Nevada County, most Montane Meadows are most common between about 4,000 and 8,850 feet elevation on the west slope and east of the Sierra crest.  Many large Montane Meadows can be found west of the crest (e.g., Bear Valley and Loney Meadows and English Meadow at the headwaters of the Middle Yuba River). A few, isolated Montane Meadows are found as low as 2,700 feet near Grass Valley; however, non-native species are a large component in these low-elevation remnants of Montane Meadow (e.g., near the North Star Mine and Empire Mine). The largest examples in Nevada County include Euer and Carpenter valleys and the remnant portions of meadows on the east shore of Lake Van Norden (<a href="/tables-figures#f2">Figure 3-11</a>).</p>
       <p>
 Recreational development and livestock grazing disproportionately impact these biologically important and often small and fragile habitats. Weedy, non-native plants are not yet a major component of most Montane Meadows.  However, livestock grazing and vehicle traffic can introduce noxious weeds and non-native species to  Montane Meadows (Schwartz et al. 1996). Channel erosion and downcutting of meadow streams resulting from overgrazing may result in a succession to drier habitat; and overgrazed meadows have more forbs and fewer grasses and grass-like plants (Mayer and Laudenslayer 1988).  </p>
-      <h3>
+      <h3 id="c3-fresh-wetlands">
 <i>Fresh Emergent Wetlands</i></h3>
       <p>
 <i>Structural and Ecological Characteristics</i></p>
@@ -525,7 +525,7 @@ Fresh Emergent Wetland ecosystems are recognized throughout California as import
 Whether naturally occurring or manmade, Fresh Emergent Wetlands usually offer valuable wildlife habitat except in areas with a high degree of disturbance from humans. Residential and urban development near marshes in foothill areas may reduce their integrity through the introduction of predators (including feral cats and dogs) and non-native aquatic species.  In montane regions of the county, most Fresh Emergent Wetlands are relatively stable, although erosion of surrounding slopes due to timber harvesting or road construction could potentially hasten their conversion to upland habitats. Rapid expansion of the Truckee area and surrounding communities also could threaten these ecosystems east of the Sierra crest. The acreage of Fresh Emergent Wetlands in California has decreased dramatically since the turn of the century due to drainage and conversion to other uses, primarily agriculture (Mayer and Laudenslayer 1988).</p>
       <p>
 <b>Shrub Ecosystems</b></p>
-      <h3><i>Foothill Chaparral</i></h3>
+      <h3 id="c3-foothill-chaparral"><i>Foothill Chaparral</i></h3>
       <p><i>Structural and Ecological Characteristics</i></p>
       <p>
 <img src="/images/fig3-13_FC_photo_Gabbro.jpg" style="max-width:300px" class="img-float-left" alt="Foothill Chaparral on Gabbrodiorite Soils">Foothill Chaparral ecosystems in Nevada County are characterized by having a high topographic and geologic diversity. In this report, Foothill Chaparral is defined as being dominated by whiteleaf manzanita and buckbrush-dominant chaparrals, while the higher elevation Montane Chaparral is characterized by a dominance of greenleaf manzanita, Indian manzanita, deerbrush, and mountain whitethorn. In the county, Foothill Chaparral ecosystems include successional habitats in oak woodlands or lower elevation Ponderosa Pine Forest as well as persistent chaparrals on poor soils, such as lava caps, and Serpentine and Gabbrodiorite Soils. Many Foothill Chaparral shrub species provide and conserve mutualistic soil fungi that promote conifer seedling establishment (Horton et al. 1999).</p>
@@ -563,7 +563,7 @@ The California distribution of Foothill Chaparral includes a fairly continuous b
 In Nevada County, Foothill Chaparral ecosystems range from about 270 feet up to about 5,030 feet in elevation on the Washington Ridge Serpentine Soils. However, it is most common between the Foothill Hardwood Woodland and the Ponderosa Pine Forest between about 1,000 and 3,500 feet. Approximately 9,350 acres of Foothill Chaparral exist in Nevada County, representing almost 2% of the county’s total land area; approximately 77% of this acreage is on private land (Table 3-1). </p>
       <p>
 The largest stands of Foothill Chaparral in Nevada County are on the serpentine and gabbro formations southwest of Grass Valley and west of Nevada City (<a href="/tables-figures#f2">Figure 3-13</a>). The 49er Fire and the recent fires near Rough &amp; Ready and Smartville created many thousands of acres of mid-successional chaparral, particularly in the form of shrubby interior live oak chaparral. Much of this area is in succession to a mixed oak, oak-pine, or live oak woodlands. The proximity of the serpentine and gabbrodiorite Foothill Chaparral ecosystems to urban centers makes them more vulnerable to residential or commercial development than many other large- or small-patch ecosystems of Nevada County. </p>
-      <h3>
+      <h3 id="c3-montane-chaparral">
 <i>Montane Chaparral</i></h3>
       <p>
 <i>Structural and Ecological Characteristics</i></p>
@@ -600,7 +600,7 @@ The California distribution of Montane Chaparral includes an area between 3,000 
 In Nevada County, Montane Chaparral has its highest concentration in the Mixed-Conifer Forest zone.  However, it extends from about 2,840 feet in lower river canyons up to about 9,050 feet elevation in the subalpine zone (Table 3-1, <a href="/tables-figures#f2">Figure 3-14</a>). Approximately 24,990 acres of Montane Chaparral exist in Nevada County, representing about 5% of the county’s total land area; about 45% of this acreage is on private land (Table 3-1). </p>
       <p>
 Persistent chaparrals on rock outcrops are relatively secure since most are in public ownership and their rocky soils often precludes invasion by most noxious weed species (Table 3-2). However, silvicultural practices have a strong influence on the structure of Montane Chaparral ecosystems (Mayer and Laudenslayer 1988), primarily those chaparrals that occur as successional stages to Mixed-Conifer Forest.</p>
-      <h3>
+      <h3 id="c3-subalpine-scrub">
 <i>Subalpine Dwarf-Scrub</i></h3>
       <p><i>Structural and Ecological Characteristics</i></p>
       <p>
@@ -631,7 +631,7 @@ Yellowlist raptors observed foraging in Subalpine Dwarf Scrub ecosystems of Neva
 <i>Distribution and Status</i></p>
       <p>
 In California, Subalpine Dwarf Scrub ecosystems exist in the subalpine zones of the Cascade Range, Sierra Nevada, Peninsular Ranges, and the White, Inyo, and Sweetwater Ranges (Mayer and Laudenslayer 1988).  In Nevada County, the distribution of this ecosystem is quite limited, and it is restricted to the upper slopes of the highest peaks such as Mt. Lola, Castle Peak, Basin Peak, and the ridges above approximately 8,500 feet (<a href="/tables-figures#f2">Figure 3-15</a>). Only about 800 acres of Subalpine Dwarf Scrub exist in Nevada County, representing about &lt;1% of the county’s total land area; approximately 6% of this acreage is on private land (Table 3-1). Threats to these sites are minimal and are limited to human disturbance of wildlife, trampling, erosion, and potential introduction of non-native plants along hiking trails and jeep trails. </p>
-      <h3>
+      <h3 id="c3-eastside-scrub">
 <i>Eastside Scrub</i></h3>
       <p>
 <i>Structural and Ecological Characteristics</i></p>
@@ -681,7 +681,7 @@ In Nevada County, Eastside Scrub ecosystems are common in the area from Truckee 
       <span class="header1">Chapter III: Results</span>
 <span class="continued">(continued, <a href="javascript:history.go(-1);">&lt;&lt; previous page</a></span><b></b><span class="continued">)</span> </h1>
       <p><b>Forested Ecosystems</b></p>
-      <h3><i>Foothill Hardwood Woodlands</i></h3>
+      <h3 id="c3-foothill-hardwood"><i>Foothill Hardwood Woodlands</i></h3>
       <p><i>Structural and Ecological Characteristics</i></p>
       <p>
 Foothill Hardwood Woodlands include a zone of oak-dominated ecosystems growing between the Annual Grasslands at the edge of the Central Valley and the Oak-Foothill Pine Woodlands and Ponderosa Pine Forests at higher elevations. Three distinct subtypes of Foothill Hardwood Woodland types are recognized by the CWHR system (Table 2-2): Blue Oak Woodlands, Interior Live Oak Woodlands, and Valley Oak Woodlands. These three types are discussed separately below, following an overview of oak woodland ecology and distribution.</p>
@@ -771,7 +771,7 @@ Interior Live Oak Woodlands is widespread throughout the foothill region surroun
 Valley Oak Woodlands are typically a Central Valley riparian forest type, and this ecosystem was formerly very extensive in the Sacramento and San Joaquin valleys  (Holland 1986). Most of the historical stands in the Central Valley have been cleared for agriculture, flood control, and urban expansion. In the foothills of Nevada County, small pockets of Valley Oak Woodlands occur in valleys from 350 feet elevation at Spenceville Wildlife Management Area up to about 2,400 feet elevation at the headwaters of Squirrel Creek (Figure 3-17b). Historic rangeland clearing for agriculture in these valley bottoms and residential development along streams in western Nevada County also has resulted in a reduction and fragmentation of Valley Oak Woodlands.</p>
       <p>
 One of the largest remnant examples of Valley Oak Woodlands in Nevada County is along Highway 20 in Penn Valley. Other good examples can be found around the base of Pilot Peak in the Campbell Creek watershed.  The Lake of the Pines area and Pleasant Valley contain examples of fragmented Valley Oak Woodlands that may have been much more extensive historically. In the valley-foothill bioregion, large stands of valley oak over 40 acres are nearly absent (Greenwood et al. 1993). </p>
-      <h3>
+      <h3 id="c3-oak-foothill-pine">
 <i>Oak-Foothill Pine Woodlands</i></h3>
       <p>
 <i>Structural and Ecological Characteristics</i></p>
@@ -808,7 +808,7 @@ Non-native animals that may occur in Oak-Foothill Pine Woodlands of Nevada Count
 <i>Distribution and Status</i></p>
       <p>
 In California, Oak-Foothill Pine Woodlands form a nearly continuous ring around the outer perimeter of the Central Valley.  They also can be found in the Pit River drainage of the Cascade Range, the foothills of the Klamath Range, widely scattered on the east slopes of the Coast Ranges, and in central San Bernardino County (Mayer and Laudenslayer 1988). These woodlands range from about 290 feet in extreme western Nevada County to an unusually high elevation occurrence at about 4,320 feet on serpentine soils of Washington Ridge (Table 3-1, <a href="/tables-figures#f2">Figure 3-18</a>). Some of the largest examples of this ecosystem in the county can be found in the Colgate Powerhouse and Woods Creek watersheds. Approximately 43,590 acres of this type exist in Nevada County, representing about 7% of the county’s total land area. About 91% of this acreage is on private lands (Table 3-1).</p>
-      <h3>
+      <h3 id="c3-montane-hardwood">
 <i>Montane Hardwood Woodlands</i></h3>
       <p>
 <i>Structural and Ecological Characteristics</i></p>
@@ -844,7 +844,7 @@ European starlings, wild turkeys, and wild pigs.</p>
 Montane Hardwood Woodlands are fairly widespread in California except for desert or lowland areas, and they occur in a broad band along the length of the Sierra Nevada (Mayer and Laudenslayer 1988). They occupy a wide elevational gradient in Nevada County. At their lowest limits, a few stands occur on north-facing slopes down to about 530 feet along Englebright Reservoir. Stands dominated by canyon live oak also occur on the rocky, south-facing slopes along river canyons, larger creeks, and high ridgelines as high as about 6,490 feet in the county (Table 3-1). However, the largest concentrations of this habitat occur between about 1,500 to 3,500 feet elevation, and especially large stands exist along the South Yuba River canyon. Approximately 29,250 acres of this type exist in Nevada County, representing almost 5% of the county’s total land area. About 72% of this acreage is on private lands (Table 3-1).</p>
       <p>
 In Nevada County, mature stands of Montane Hardwood Woodlands are characteristic of steep canyon slopes (<a href="/tables-figures#f2">Figure 3-19</a>). Most of these stands are dense and at great risk of stand-replacing fires. The steep rocky nature of these slopes precludes nearly all human activity, meaning that soils, plant communities, and wildlife values have remained little disturbed except by the effects of fire suppression. On more level, black oak-dominated sites, Montane Hardwood Woodlands are generally at higher risk of being cleared for development or fire abatement. Near urban and residential areas, infestations of Scotch broom are common in Montane Hardwood Woodlands that have been disturbed by fires or range clearing, particularly in the San Juan Ridge area.</p>
-      <h3>
+      <h3 id="c3-foothill-riparian">
 <i>Foothill Riparian Woodlands</i></h3>
       <p>
 <i>Structural and Ecological Characteristics</i></p>
@@ -894,7 +894,7 @@ Foothill Riparian Woodlands are sporadic on the county’s major rivers and the 
 Throughout the Sierra Nevada, including the Nevada County foothill region, riparian habitats have been reduced, fragmented, or degraded by a variety of human activities.  The primary factors include historical gold mining, heavy livestock use of some riparian corridors, vegetation removal on the stream and floodplain, introduction and spread of noxious weeds, road and home development, alterations in the hydrologic regime due to hydroelectric and water storage reservoirs, gravel mining, and groundwater extraction (Kondolf et al. 1996). </p>
       <p>
 Riparian ecosystems are recognized throughout California as important natural communities because of their limited extent compared to historical distributions, their importance to dependent plant and wildlife species, and threats facing remaining stands.  This status is supported by the DFG policy promoting “no net loss” of wetland habitats, which includes Foothill Riparian Woodlands (California Fish and Game Commission 1987).  Portions of some riparian habitats may also qualify as jurisdictional wetlands under Section 404 of the federal Clean Water Act.  Section 404 is enforced by the U.S. Army Corps of Engineers (USACE 1987) that consults with the USFWS and/or NMFS concerning possible take of federally-listed plants and animals that may result from the fill of jurisdictional wetlands or Waters of the United States.</p>
-      <h3>
+      <h3 id="c3-montane-riparian">
 <i>Montane Riparian Woodlands</i></h3>
       <p>
 <i>Structural and Ecological Characteristics</i></p>
@@ -948,7 +948,7 @@ White alder riparian forests are found on the forks of the Yuba and Bear rivers,
 Riparian areas in the Sierra Nevada have been impacted or functionally impaired by gold mining, gravel mining, hydroelectric development, land clearing, and water diversions for irrigation.  They have also been affected by land drainage, vegetation clearing for flood protection, timber harvest, construction of roads and railroads, urbanization, livestock grazing, and groundwater extraction (Kondolf et al. 1996). </p>
       <p>
 Riparian ecosystems are recognized throughout California as important natural communities because of their limited extent compared to historical distributions, their importance to dependent plant and wildlife species, and the threats facing remaining stands.  This status is supported by the DFG policy promoting “no net loss” of wetland habitats, which includes Montane Riparian Woodlands (California Fish and Game Commission 1987).  Portions of some riparian habitats may also qualify as jurisdictional wetlands under Section 404 of the federal Clean Water Act.  Section 404 is enforced by the U.S. Army Corps of Engineers (USACE 1987) that consults with the USFWS and/or NMFS concerning possible take of federally-listed plants and animals that may result from the fill of jurisdictional wetlands or Waters of the United States. </p>
-      <h3>
+      <h3 id="c3-eastside-riparian">
 <i>Eastside Riparian Woodlands </i></h3>
       <p>
 <i>Structural and Ecological Characteristics</i></p>
@@ -1013,8 +1013,8 @@ The ecological effects of roads in riparian areas are often severe. A study of l
       <h1><br>
       <span class="header1">Chapter III: Results</span>
 <span class="continued">(continued, <a href="javascript:history.go(-1);">&lt;&lt; previous page</a></span><b></b><span class="continued">)</span> </h1>
-      <h2><b>Forested Ecosystems <span class="continued">(continued)</span></b></h2>
-      <h3><i>Aspen Woodlands</i></h3>
+      <h2 id="c3-forested-ecosystems"><b>Forested Ecosystems <span class="continued">(continued)</span></b></h2>
+      <h3 id="c3-aspen-woodlands"><i>Aspen Woodlands</i></h3>
       <p>
 <i>Structural and Ecological Characteristics</i></p>
       <p><img src="/images/fig3-23_AS_photo_DCP_0428.jpg" style="max-width:300px" class="img-float-left" alt="Aspen Woodlands">Aspen Woodlands form the sole deciduous, broadleaved forests of the high mountain regions of the Sierra Nevada (Griffin and Critchfield 1976).  The pale, light green leaves or yellow autumn hues, and white bark provide a dramatic contrast to the various coniferous forest communities that span the range of Aspen Woodlands. </p>
@@ -1060,7 +1060,7 @@ In California, Aspen Woodlands are found from the interior Klamath Ranges to the
 Throughout the Great Basin, many Aspen Woodlands appear to be following a successional sequence that will eventually lead to their replacement by conifer forests. This pattern appears to result from both suppression of fires over the past several decades and from grazing pressure that keeps aspen sprouts severely hedged and favors conifers that are not grazed as heavily (Potter 1998).  Stands sometimes occur adjacent to meadows and other moist areas where livestock congregate in the summer season for shade, forage, and access to water. In many existing stands, quaking aspen seedlings are heavily browsed by livestock, seriously reducing their ability to regenerate (Potter 1998).</p>
       <p>
 Aspen Woodlands are a community of concern to several National Forests in the Sierra Nevada because they are of limited extent, do not appear to reproduce sexually, and because they require disturbances, such as periodic fires, to reproduce (USDA 2000). To maintain existing stands could require management to reduce grazing pressure (e.g., through fenced exclosures), and to encourage regeneration and growth, possibly through the reintroduction of fires (Potter 1998). </p>
-      <h3>
+      <h3 id="c3-ponderosa-pine">
 <i>Ponderosa Pine Forest</i></h3>
       <p>
 <i>Structural and Ecological Characteristics</i></p>
@@ -1101,7 +1101,7 @@ Similar to many other montane forest ecosystems in the Sierra Nevada, Ponderosa 
 In Nevada County, Ponderosa Pine Forest forms a rather broad band above about 1,400 feet and below about 5,160 feet, but isolated stands can be found down to about 500 feet elevation along river drainages in the western county (<a href="/tables-figures#f2">Figure 3-24</a>, Table 3-1).  Above about 5,100 feet, Mixed-Conifer Forests dominated by Jeffrey pines, largely replace the Ponderosa Pine Forests in the county.  </p>
       <p>
 A total of about 65,150 acres of Ponderosa Pine Forest occur in Nevada County, representing about 10% of the county’s total land area.  About 80% of this acreage is on private land (Table 3-1). Much like Mixed-Conifer Forest, this forest type is a primary timber-producing zone and many stands been converted to an early- or mid-successional stages due to logging activities or have been modified by their proximity to human development (McBride et al. 1996). Few examples of late-successional Ponderosa Pine Forest currently exist in the county (<a href="/tables-figures#f2">Figure 3-33</a>).</p>
-      <h3>
+      <h3 id="c3-mixed-conifer">
 <i>Mixed-Conifer Forest</i></h3>
       <p>
 <i>Structural and Ecological Characteristics</i></p>
@@ -1146,7 +1146,7 @@ Mixed-Conifer Forest is widespread in California, encompassing the entire length
 In Nevada County, Mixed-Conifer Forest on the west slope extends from about 1,030 feet up to about 8,980 feet elevation (Table 3-1).  However, most stands in the county are between about 4,800 feet and 7,500 feet elevation, and from about 6,000 feet to about 7,600 feet on the east slope. At low elevations on the west slope, Mixed-Conifer Forest is restricted to cool, moist sites such as north-facing slopes in river canyons.  Its lowest elevation in the county is just above 1,000 feet along the Middle Yuba River (just west of North San Juan) and 1,400 feet along the Bear River (just west of Highway 49).  The county’s highest elevation Mixed-Conifer Forest is above 8,980 feet on the slopes of Andesite Peak near Donner Summit (Figure 3-24).</p>
       <p>
 Mixed-Conifer Forest occupies the largest land area of any large-patch ecosystem in Nevada County.  About 197,700 acres were mapped as being this forest type, representing about 32% of the county’s total land area. Approximately 52% of this acreage is on private land (Table 3-1). Much like Ponderosa Pine Forest, this forest type is a primary timber-producing zone, and many stands have been converted to early- or mid-successional stages due to logging activities or have been modified by fire suppression and their proximity to human development (McBride et al. 1996). Few examples of late-successional Mixed-Conifer Forest currently exist in the county (Figure 3-33).</p>
-      <h3>
+      <h3 id="c3-red-fir">
 <i>Red Fir Forest</i></h3>
       <p>
 <i>Structural and Ecological Characteristics</i></p>
@@ -1191,7 +1191,7 @@ Red Fir Forest is found on high mountain slopes the length of the Sierra Nevada 
 This ecosystem is most fully developed between 7,500 feet and 8,500 feet, but Red Fir Forest grows up to about 9,060 feet and as low as 5,600 feet just east of Graniteville. On the east slope, it occurs down to about 7,000 feet in the hills above Sagehen Creek, and there is an isolated population in the Carson Range in the extreme southeast corner of the county (Figure 3-26). The highest elevation occurrences of this forest type in Nevada County are at 8,800 feet on the north side of Basin Peak, and at 9,045 feet on the north slope of Mt. Lola. </p>
       <p>
 In the Sierra Nevada, logging of Red Fir Forest began in the early 1940s (Oosting and Billings 1943), but significant harvesting did not begin until the 1950s and 1960s  when road systems were established (Bolsinger 1980, Potter 1998).  Red Fir Forest in the Sierra Nevada is coming under increasing pressure from intensive logging activity (McKelvey et al. 996).  In Nevada County, the largest Red Fir Forest stands have been logged to the extent that few late-successional stands now remain (Figure 3-33). </p>
-      <h3>
+      <h3 id="c3-lodgepole-pine">
 <i>Lodgepole Pine Forest</i></h3>
       <p>
 <i>Structural and Ecological Characteristics</i></p>
@@ -1232,7 +1232,7 @@ In Nevada County, these forests extend from about 5,660 feet up to about 8,290 f
 Some of the largest concentrations of Lodgepole Pine Forest in Nevada County can be found along the higher ridgelines between Castle Peak and Mt. Lola.  Large stands also can be found in the headwaters, floodplain, and wet meadows of the South Yuba River, from Lake Van Norden through Kingvale and west to Cisco Grove (Figure 3-27). In the South Yuba River drainage these forests are often found in close association with adjacent upland communities of Mixed-Conifer and Montane Chaparral.  On flats along the river, lodgepole pines are frequently associated with black cottonwoods, while in adjacent upland sites with drier soils, they are found in close proximity to less water-tolerant species such as white fir, Jeffrey pine, mountain whitethorn, ceanothus, and greenleaf manzanita.</p>
       <p>
 Since the railroad building era in the late 1800s intensive harvesting in Lodgepole Pine Forest has not  been of sufficient duration and scope to have made substantial long-term changes in the species composition and major structural elements of these forests. In most cases, harvesting operations did not begin in upper montane forests of the Sierra Nevada until the mid-1950’s. Rangewide, limited clear cutting has occurred in these forests; few clear cuts are larger than 25 to 30 acres, and most are smaller than 10 acres (Potter 1998). </p>
-      <h3>
+      <h3 id="c3-subalpine-conifer">
 <i>Subalpine Conifer Forest </i></h3>
       <p>
 <i>Structural and Ecological Characteristics</i></p>
@@ -1281,7 +1281,7 @@ In Nevada County, Subalpine Conifer Forest occupies about 2,440 acres, represent
 The effects of human activities in Subalpine Conifer Forest have been relatively minor, recent, and concentrated into a short time frame compared to impacts on most other large-patch forest ecosystems of Nevada County.  Due to the short growing season and lower productivity, these forests have been less affected by historical fire suppression than the county’s other forest types. Subalpine Conifer Forest is generally located in remote and relatively inaccessible regions, and they are widely distributed across rough terrain, limiting the extent of timber harvest activities.  However, many of the county’s larger or more contiguous forest stands have had many of the large-stature trees removed within the last few decades.  Some mid-to-late-seral stands still exist, including some large tracts of the locally scarce mountain hemlock (mapped as part of LSOG Red Fir, Figure 3-33). </p>
       <p>
 The slow growth and longevity of most Subalpine Conifer Forest conifers is well known.  Both mountain hemlock and whitebark pine have been recorded at more than 800 years old (Arno 1967, Means et al. 1988).  The large girth and ancient gnarled appearance of many of these trees is one indication that they may be among the oldest remaining trees in the county. </p>
-      <h3>
+      <h3 id="c3-eastside-pine">
 <i>Eastside Pine Forest</i></h3>
       <p>
 <i>Structural and Ecological Characteristics</i></p>
@@ -1335,7 +1335,7 @@ Historic logging and many stand-destroying fires have reduced the extent of East
       <span class="header1">Chapter III: Results</span>
 <span class="continued">(continued, <a href="javascript:history.go(-1);">&lt;&lt; previous page</a></span><b></b><span class="continued">)</span>      </h1>
       <p><b>Developed Ecosystems</b></p>
-      <h3><i>Urban and Residential Areas</i></h3>
+      <h3 id="c3-urban"><i>Urban and Residential Areas</i></h3>
       <p><i>Structural and Ecological Characteristics</i></p>
       <p>
 Areas mapped as Urban include commercial, high-density residential development, and the patchy mosaic of ornamental plantings, vacant lots, and remnant native habitats that occur between structures.  The urban centers of Grass Valley, Nevada City, and Truckee are included, as well as outlying residential communities such as Lake of the Pines, Lake Wildwood, Penn Valley, Alta Sierra, the North Bloomfield Road area, and the Hirschdale and Glenshire areas outside of Truckee (<a href="/tables-figures#f2">Figure 3-30</a>). The extent of landscape maintenance and the replacement of native plant species by ornamental plants usually control the habitat characteristics of urban vegetation (Mayer and Laudenslayer 1988). Urban habitat is not limited to any particular physical setting, but in Nevada County it often occurs in valleys, gentle to moderately-sloping areas, and level ridges. </p>
@@ -1369,7 +1369,7 @@ In California, Urban areas occur throughout the state and are not limited to any
 In the foothill regions, newer residential developments in outlying areas most often replace Foothill Hardwoods or Annual Grasslands, and some areas may have been previously modified for agricultural uses. Truckee has experienced considerable expansion recently, with many new developments planned in the Martis Valley and other outlying areas.  In the Truckee area, Eastside Pine and Eastside Scrub communities, Montane Meadows, and Subalpine Forests are the habitats most typically converted to urban and residential types.</p>
       <p>
 On both sides of the Sierra crest Urban areas often have disproportionate effects on stream environments. Some development projects in the county have been permitted to encroach into floodplain environments within 10 or 20 feet of active steam channels. Placement of bridges, roads, paved areas, and structures within the lower floodplains of perennial streams often results in the removal of native vegetation and unnaturally narrowed channels that make them more prone to flooding and erosion.  Often the native riparian species in Urban areas are replaced by noxious weeds and other invasive non-native species such as Himalayan blackberry, and these species can form  single-species monocultures over miles of affected stream corridor.  In outlying communities, suburban developments often have more mature vegetation and greater wildlife species diversity (Mayer and Laudenslayer 1988).</p>
-      <h3>
+      <h3 id="c3-orchards">
 <i>Orchards</i></h3>
       <p>
 <i>Structural and Ecological Characteristics</i></p>
@@ -1396,7 +1396,7 @@ No Redlist or Yellowlist animals are known to breed in orchards of the county (F
 In California, Orchards are found in nearly every county except Alpine County, with only a few farms represented in Lassen, Modoc, Mono, Plumas, San Francisco, and Trinity counties (USDA 1997).  Orchards have a small distribution of about 120 acres in Nevada County, and it is all in private ownership. Several large orchards exist in the Chicago Park area and smaller orchards elsewhere in the county range from about 1,600 to over 3,000 feet elevation (Table 3-1, <a href="/tables-figures#f2">Figure 3-31</a>).</p>
       <p>
 Orchard soils in the mid-elevations of Nevada County formerly supported ponderosa pine and black oak stands with an understory of brush, forbs, and sparse grasses (Brittan 1993). The habitat values of the conifer-hardwood habitats prior to conversion to Orchards vary depending on their proximity to urban or residential areas, degree of human disturbance, and integrity of the understory (Mayer and Laudenslayer 1988). </p>
-      <h3>
+      <h3 id="c3-vineyards">
 <i>Vineyards</i></h3>
       <p>
 <i>Structural and Ecological Characteristics</i></p>
@@ -1423,7 +1423,7 @@ No Redlist or Yellowlist plants are known to occur in Vineyards of Nevada County
 In California, Vineyards are found in every county except Alpine, Lassen, Modoc, Mono, Plumas, San Francisco, and Trinity counties (Mayer and Laudenslayer 1988).  In Nevada County their distribution is still small, as Vineyards occupy only about 550 acres (Table 3-1).  However, there is a sharp increase regionally and statewide in the number of new Vineyards in production (USDA 1997).</p>
       <p>
 Vineyards usually support fewer wildlife species than other agricultural crops or rangelands in Nevada County (Appendix VI).  The overall effects of converting native habitats to Vineyards vary depending on whether they were Annual Grassland or Foothill Hardwood Woodlands (Mayer and Laudenslayer 1988). </p>
-      <h3>
+      <h3 id="c3-croplands">
 <i>Croplands</i></h3>
       <p>
 <i>Structural and Ecological Characteristics</i></p>
@@ -1459,7 +1459,7 @@ The effects of converting native habitats to Croplands vary depending on whether
       <p>
 <b>Small-Patch Ecosystems</b></p>
       <p>Small-patch ecosystems are defined in this report as isolated or unique communities that are small (usually &lt; 10 acres), and that have unusual qualities or species associated with them. In this study, small-patch ecosysems are generally mapped as point-locations within the county’s large-patch ecosystems (Table 3-3). Some of these ecosystems may support Redlist or Yellowlist plants and animals, or they may be locally or regionally scarce and therefore vulnerable to disturbance and loss. For these reasons, most of the following small-patch ecosystems are recognized by state and/or federal resource agencies as sensitive habitats in California (CNDDB 2002a).</p>
-      <h3>
+      <h3 id="c3-seeps-springs">
 <i>Seeps and Springs</i></h3>
       <p>This category includes permanent, intermittent and ephemeral Seeps and Springs. Seeps are water that passes through or emerges from the ground along a line or surface in contrast to a Spring where the water emerges from a localized spot.  In Nevada County, Seeps and Springs are encountered most frequently on volcanic cliffs or on the north-facing cliffs of metamorphic rocks in the major river drainages; they also may be associated with wet Montane Meadows (<a href="/tables-figures#f2">Figure 3-32</a>). Approximately 85 Springs, Seeps, and Fens (see “Fens and Bogs,” below) were mapped in the county.  These range in elevation from about 690 feet up to about 6,600 feet, and about 68% of them are privately owned (Table 3-3).</p>
       <p>
@@ -1468,7 +1468,7 @@ Seeps on rock outcrops typically occur on slopes over 70% with little soil.  Pla
 Seeps and Springs enhance the wildlife value of the surrounding area by providing water and lush vegetative growth that attract deer and other browsers.  They also can produce an abundant supply of insects for bats, violet-green and tree swallows, and other insectivorous birds.</p>
       <p>
 Springs with constant temperatures and flows, fine substrates, and clear water can support unusual or endemic invertebrates, including some Yellowlist species (Moyle 1996). For example, the Cold Creek caddisfly is a Yellowlist species that was first discovered in a tributary of Sagehen Creek (Erman and Nagano 1992).  Several permanent springs can unite to form meadow streams, a phenomenon particularly common in the Sagehen  Creek basin.</p>
-      <h3>
+      <h3 id="c3-fens-bogs">
 <i>Fens and Bogs</i></h3>
       <p><img src="/images/fig3-32_fens_photo_DCP_0669.jpg" style="max-width:198px" class="img-float-left" alt="Fens in Nevada County">Fens are nutrient-rich (minerotrophic), spongy, spring-fed peatlands located on hillsides and dominated by non-sphagnum mosses and sedges. By contrast, true bogs are generally very acidic, marshy, rain-fed wetlands with no outflow that are characteristically dominated by sphagnum mosses and carnivorous plants (Sawyer and Keeler-Wolf 1995, Moyle 1996). In California, some locally wet areas are called bogs, even though they do not satisfy the standard definition (Sawyer 1986); true bogs have yet to be identified in Nevada County.</p>
       <p>
@@ -1477,14 +1477,14 @@ The California distribution of fens includes occurrences in the North Coast rang
 Nevada County is reported to be the southernmost distributional limit of the California pitcher plant (CNPS 2001), a Yellowlist plant that occurs on fens and bogs primarily in northwestern California and southern Oregon, with a small number of occurrences in the northern Sierra Nevada on fens. Other Yellowlist plants that may be associated with fens in the county include: white-beaked rush, shore sedge, slender sedge, moonworts, the rare mosses <i>Meesia triquetra</i> and <i>Meesia uliginosa</i>, English sundew, and round-leaved sundew (USFS 2000, CNDDB 2002a, Calflora 2002).</p>
       <p>
 Fens also provide important wildlife resources by supplying a permanent source of surface water in Montane Meadows. </p>
-      <h3>
+      <h3 id="c3-vernal-pools">
 <i>Vernal Pools</i></h3>
       <p>A few small, scattered vernal pools are found on volcanic mudflows of andesitic origin in the valleys of eastern Nevada County and north to Sierra County in the Sierra Valley area (CNDDB 2002a). Vernal pools are shallow depressions that temporarily fill with water during winter and spring rains and dry up during the summer months. They are characterized by an impermeable substrate near the surface that restricts percolation and a barrier to overland flow that causes water to collect and pond. Vernal Pools were not mapped for this report due to the scale of the available aerial photography. Thus, there are currently no estimates of the number or acreage of these small-patch ecosystems in Nevada County.</p>
       <p>
 Vernal Pools often contain a unique flora of annual plants and invertebrates that are especially adapted to the extremes of drought and inundation. Volcanic soils, particularly mudflows and ashflows, are the most common substrates for Vernal Pools in Nevada County. Regional Vernal Pool floras vary in consort with soil variation (Holland and Dains 1990).</p>
       <p>
 Plumas ivesia is a Yellowlist plant associated with vernal pools and vernally-wet meadows in Nevada County.  Characteristic plants here include the toothed downingia, least navarretia, Kellogg’s knotweed, pull-up muhly, popcornflower, and yampah (CNDDB 2002a). Unidentified fairy shrimp also were observed in Vernal Pools of the county during the watershed surveys.</p>
-      <h3>
+      <h3 id="c3-late-successional">
 <i>Late-Successional Forest</i></h3>
       <p>Late-successional and old-growth (LSOG) conifer forests are relatively rare in Nevada County (<a href="/tables-figures#f2">Figure 3-33</a>).  These stands occupy only about 4,050 acres and represent &lt;1% of the county’s land area (Table 3-3).  Of this LSOG acreage, about 850 acres (0.1% of the county) consist of Ponderosa Pine and Mixed-Conifer Forests, with Red Fir and Subalpine Forests occupying about 3,200 acres and representing about 0.6% of the county’s total land area. About 29% of the remaining LSOG lands in the county are in private ownership (Table 3-3).</p>
       <p>
@@ -1493,7 +1493,7 @@ These stands all meet the specific type and site productivity definitions for ol
 Almost all known remaining Ponderosa Pine and Mixed-Conifer Forest LSOG stands occur in the South Yuba River Canyon and its tributaries, Spring and Devil’s Canyon creeks. A stand also occurs on Grizzly Creek, about 4 miles upstream from its confluence with the Middle Yuba River. Red Fir and Subalpine LSOG stands are concentrated in the Sierra crest Region. Stands also occur in the Grouse Lakes Roadless Area, southwest of Lake Faucherie (Figure 3-33).</p>
       <p>
 Late-successional and old-growth forests are important resources for a number of wildlife species that require large-diameter trees or snags or that prefer high canopy closure and multilayered, multi-aged forests.  Yellowlist species, such as northern goshawk and California spotted owl, prefer large trees or snags for nesting, a closed canopy for protection and thermal cover, and open spaces allowing maneuverability below the canopy.  Other species that may be associated with LSOG forest stands include American marten, Pacific fisher, and pileated woodpecker. These characteristics are often provided in LSOG stands, however, other late-successional forest types will also be used by these species (Zeiner et al. 1990).</p>
-      <h3>
+      <h3 id="c3-mcnab-cypress">
 <i>McNab Cypress Stands</i></h3>
       <p>Many of California’s cypress communities are quite rare or restricted (Sawyer and Keeler-Wolf 1995). Although McNab cypress is the most common of the California cypresses, it is restricted in the Sierra Nevada to a relatively small number of small stands, often separated by hundreds of miles (Griffin and Critchfield 1976). The Nevada County occurrences of McNab Cypress Stands represent the southernmost extent of their distribution in the Sierra Nevada, with the exception of a stand in Amador County (Griffin and Critchfield 1976). </p>
       <p>
@@ -1502,7 +1502,7 @@ In Nevada County, McNab Cypress Stands are restricted to serpentine and gabbrodi
 Locally, small, shrubby McNab cypress trees are generally less than 25 feet high, and they occur as pure stands of fewer than 10 trees to as many as several hundred trees (Griffin and Critchfield 1976). Foothill pine, interior live oak, blue oak, and scattered ponderosa pines may also occur nearby, and the stands are nearly always associated with a small component of serpentine or gabbro chaparral. The stands are often dense with a sparse herbaceous layer; common associates include Indian warrior and Brainerd’s sedge. </p>
       <p>
 McNab Cypress Stands typically occur in frequently-burned habitats throughout their range on ridges, slopes, and flats.  However, they may also be found along the upper slopes of intermittent drainages. Examples of burned stands in Nevada County suggest that they respond favorably to fire with increased germination. However, an unusual disjunct population of a North Coast Range butterfly, Muir’s hairstreak (<i>Mitoura muiri</i>), has been found in Nevada County on several stands of McNab cypress, and nearly always occurs on stands no less than approximately 50 years old (Shapiro 2000).  </p>
-      <h3>
+      <h3 id="c3-whitebark-pine">
 <i>Whitebark Pine Stands</i></h3>
       <p>Whitebark pines are classic timberline trees, growing at elevations up to 12,000 feet in the central Sierra Nevada (Whitney 1985).  Where regionally present, they are often the most commonly encountered species in areas of transition to the treeless Alpine zone, with an ability to grow in the most extreme conditions where other trees cease to exist.  Near timberline, they are often found on exposed, windswept ridgetops, often subject to gale forces and intensely abraded by flying ice pellets and snow crystals.  These trees are usually dwarfed and contorted, sometimes forming sprawling shrubs, and the windward sides of trees commonly show bare, polished wood where the bark has been stripped away (Whitney 1985, Lanner 1999).</p>
       <p>
@@ -1513,7 +1513,7 @@ There is little interest in whitebark pines for commercial timber, and their gre
 Whitebark pine has an interesting co-evolutionary, symbiotic relationship with the Clark’s nutcracker (Lanner 1980).  The nutcracker can carry as many as 150 seeds in its sublingual throat pouch and may cache over 32,000 seeds (in groups of one to five, approximately 2.5 inches below the soil surface) over a 42-day period.  Whitebark pines are almost always multi-trunked as a result of several trees emanating and growing together from a single nutcracker seed cache (Weaver and Dale 1974). </p>
       <p>
 Whitebark Pines Stands are found scattered in the Klamath Ranges and extend southward where they occur on the slopes of Mt. Shasta and Mt. Lassen.  Their southernmost extension is in the central Sierra near Mt. Whitney (Griffin and Critchfield 1976).  While Whitebark Pine Stands are not rare from a statewide perspective, they are regionally scarce and only occur in two Nevada County locations in the Castle and Basin Peaks areas (<a href="/tables-figures#f2">Figure 3-35</a>).  The Tahoe National Forest, as well as several other national forests, considers whitebark pine to be a watch list species under their sensitive plant program. </p>
-      <h3>
+      <h3 id="c3-knobcone-pine">
 <i>Knobcone Pine Stands</i></h3>
       <p>Knobcone Pine Stands are not rare from a statewide perspective, and they are fairly common in the Klamath and Cascade Ranges.  However, their occurrence in the Sierra Nevada is restricted to widely scattered, small occurrences from Tehama County south to Yosemite National Park (Griffin and Critchfield 1976).</p>
       <p>
@@ -1522,14 +1522,14 @@ Only a few small stands of this fire-maintained species are found in Nevada Coun
 Knobcone Pine Stands are restricted to open, rocky, infertile metasedimentary soils (Brittan 1993). At least two small stands occur in hydraulic diggings. At least one diggings occurrence, near the Nevada County line in Placer County, also supports a population of the Yellowlist California horned lizard, with a reported occurrence in the Chalk Bluff diggings (Witham pers. comm). </p>
       <p>
 Most of the local occurrences of Knobcone Pine Stands are dense and even-aged.  Associate species locally include foothill pine, whiteleaf manzanita, yerba santa, bush monkeyflower, poison oak, purple sanicle, three week fescue, and frosty paintbrush. Knobcone pine is known for its persistent, closed-cone habit, but the percentage of trees in a stand with closed cones varies greatly among stands throughout its range (Sawyer and Keeler-Wolf 1995).  Knobcone pine is one of California’s most fire-adapted conifers, although it is known to germinate without fire in some areas (Lanner 1999).</p>
-      <h3>
+      <h3 id="c3-leather-oak">
 <i>Leather Oak Chaparral</i></h3>
       <p>Leather Oak Chaparral is listed as a community with a high inventory priority by the CDFG (Holland 1986, CNDDB 2002a). It is a serpentine endemic chaparral with its primary distribution in the north and central Coast Ranges with scattered occurrences in the Sierra Nevada. Throughout its range, leather oak chaparrals are known to support restricted species and are often associated with unique stands, such as McNab cypress or Sargent cypress (Sawyer and Keeler-Wolf 1995). Where leather oak chaparral does occur, it is found on shallow, rocky serpentine soils. </p>
       <p>
 As with some other serpentine endemic plant communities, leather oak chaparral is associated with some unusual insect species, including the leather oak skipper (<i>Erynnis brizo lacustra</i>). This species was formerly believed absent from the Sierra until found on leather oak in scattered occurrences in Nevada, Placer and El Dorado counties (Shapiro 1996). New populations also have been found on serpentine soils in Tehama and Butte counties. This particular race of the leather oak skipper is only found in the northern part of its range, on Leather Oak Chaparral growing on ultramafic soils.</p>
       <p>
 In Nevada County, Leather Oak Chaparral extends from about 2,175 feet up to about 2,700 feet elevation (Table 3-3).  It occurs on a band of Serpentine Soils extending from Cypress Hill down into the Deer Creek Canyon, just south of the Sierra Nevada Memorial Hospital, and near Rollins Resevoir (CNDDB 2002, <a href="/tables-figures#f2">Figure 3-37</a>). This small-patch ecosystem occupies only about 197 acres in the county, and about 86% of this acreage is on private land (Table 3-3).  </p>
-      <h3>
+      <h3 id="c3-serpentine-soils">
 <i>Serpentine Soils</i></h3>
       <p>Many of Nevada County’s and California’s rarest plants and natural communities occur on its most hostile soils, serpentinite.  Serpentine soils are deficient in calcium, nitrogen and phosphorus but high in concentrations of heavy metals chromium and nickel.  These nearly toxic conditions provide a challenge for successful adaptation of a species (Kruckeberg 1984).  The result of this severe and challenging environment is a plant community characterized by a  high degree of endemism and sparse vegetative cover. Serpentine Soils, with their high rate of endemism, function as ecological “islands,” and even species not restricted to serpentine may evolve serpentine-tolerant races (Kruckeberg 1984). </p>
       <p>
@@ -1546,7 +1546,7 @@ On serpentine soils at higher elevations, characteristic species include: mounta
 In California, approximately 300 rare plant taxa, representing over 14% of all rare plants in California, are associated with Serpentine Soils (CNPS 2001). However, compared to serpentine soils in other parts of the state, Nevada County serpentines have only a few  Redlist or Yellowlist species,  most of which are known from just a few scattered, small occurrences. Follett’s monardella is a serpentine endemic in Plumas County, but the historic specimen from Nevada County has not yet been re-discovered since it was collected in the 1930’s. Sanborn’s onion may be found on both Serpentine and Gabbrodiorite soils in Nevada County, as well as on volcanic mudflow soils. Congdon’s onion is known in Nevada County only from the Washington area serpentines. A species formerly listed as Ceanothus x arcuata was recently referred to as Fresno ceanothus, a Yellowlist species, and occurs on higher elevation serpentine soils in Nevada and Plumas counties. Bacigalupi’s yampah is found on serpentine soils, but it is more common on gabbrodiorite soils (Appendices II and III). </p>
       <p>
 While there is no evidence of mammal or avian species being closely associated with these habitats in Nevada County, serpentine ecosystems are home to one of the most unusual, and threatened, butterfly faunas in the Sierra Nevada (Shapiro 1996). Additionally, many of the California horned lizard observations locally have been in serpentine ecosystems (CNDDB 2002). Both butterflies and reptiles are heliotherms (warmed by the sun) and are attracted to the open, sunny, and rocky habitats. A phenotypically and phenologically-distinct population of the comma skipper (a butterfly) occurs on serpentine in Nevada County and flies in the fall, in contrast to its populations elsewhere.  Lindsey’s skipper, a bunchgrass feeder, occurs in serpentine or gabbrodiorite ecosystems. Occurrences of the autumn-flying Lindsey’s skipper have also been found on ultramafic soils from Nevada to Amador counties, although the El Dorado occurrences may be extinct (Shapiro 1999). </p>
-      <h3>
+      <h3 id="c3-gabbrodiorite">
 <i>Gabbrodiorite Soils </i></h3>
       <p>Gabbrodiorite-derived soils were mapped as small patch ecosystems within large-patch woodland and chaparral ecosystems that are found on Gabbrodiorite Soils (<a href="/tables-figures#f2">Figure 3-39</a>). </p>
       <p>
@@ -1561,7 +1561,7 @@ Although they are also found on Serpentine Soils, widely scattered stands of McN
 Although Gabbrodiorite Soils cover a relatively small area in Nevada County, they contain a disproportionately large number of its rare and threatened species and natural communities (Environment and Planning Associates 1998). Redlist plants known from Nevada County’s gabbrodiorite soils are extremely rare and restricted to just a few very small occurrences. Thus, the presence of these soils does not necessarily infer a high potential for Redlist species. Redlist plants associated with these soils in Nevada County, particularly the “Secca” soil series, include Stebbins’ morning-glory, a species known globally from only two small areas in El Dorado and Nevada counties (CNDDB 2002a).  Pine Hill flannelbush, the local occurrences of which are morphologically distinct from the only other occurrence of this species in El Dorado County.  It may be a hybrid between the common flannelbush and Pine Hill flannelbush, and further study is required to confirm the genetic and taxonomic relations of the Pine Hill flannelbush in Nevada County. Yellowlist plant species found primarily on gabbrodiorite soils in Nevada County include Bacigalupi’s yampah and  Sanborn’s onion (Appendix III).</p>
       <p>
 Noxious weeds and other non-native species are generally absent or infrequent on undisturbed gabbrodiorite soils.  However, the noxious weeds goat grass, yellow star-thistle, and medusa-head are often found invading disturbed areas such as roadsides, mining sites, and along OHV roads.</p>
-      <h3>
+      <h3 id="c3-volcanic">
 <i>Volcanic Lava Caps and Mudflows</i></h3>
       <p>“Lava cap,” is a generic term used to describe the ridges of thin volcanic soils, usually “tuff-breccia” andesitic ashflows or mudflows, found in Nevada County and elsewhere in the state. Rhyollitic rock and ash is also present, although more limited.  The annual herb-dominated vegetation is underlain by thin, poorly-developed, and often impermeable soils that are seasonally saturated and have a rich flora of native wildflowers.  Some of these wildlflowers include  species typically associated with Vernal Pools, such as Orcutt’s quillwort, dwarf woolly marbles, bractless hedge-hyssop, and pansy monkeyflower (True 1973).  The general occurrence of these ecosystems in Nevada County is mapped in <a href="/tables-figures#f2">Figure 3-40</a>. Many of these sites are known for their spectacular spring displays of wildflowers, such as Hell’s Half-Acre (in Grass Valley) and Sand Ridge. </p>
       <p>
@@ -1572,36 +1572,36 @@ Variation in plant associates is found even within a single site, and the unique
 Common wildflowers in Volcanic Lava Cap and Mudflow ecosystems include: white meadowfoam, Ramm’s madia, johnny-tucks, Hartweg’s sidalcea, paper onion, white hyacinth brodiaea, common brodiaea, candelabra monkeyflower, cowbag clover, pansy monkeyflower, vernal pool popcornflower, spinster’s blue-eyed mary, sky lupine, purple milkweed, Douglas’ sandwort, and a variety of crustose and foliose lichens.</p>
       <p>
 Volcanic Lava Cap and Mudflow ecosystems cover about 73 acres, or less than 0.01% of the county. Elevations range from 2,369 to 2.640 feet. About 95% of the ecosystem occurs on private land (Table 3-3).</p>
-      <h3>
+      <h3 id="c3-caves-mines">
 <i>Caves and Mine Shafts</i></h3>
       <p>According to data from the U.S. Geological Survey, about 210 Caves and Mine Shafts exist in Nevada County. These range in elevation from about 600 feet up to about 7,400 feet, and about 80% are on private land (Table 3-3). Additional natural caves and crevasses are locally abundant on “Barren” ecosystems, but these were not mapped since they are not visible on aerial photographs.  Mine shafts are concentrated in the Grass Valley/Nevada City area, north and east of the town of Washington, and near Fordyce Reservoir (<a href="/tables-figures#f2">3-41</a>).</p>
       <p>
 In natural settings, roosting bats will aggregate on open surfaces inside darkened chambers, such as caves or large tree hollows.  Mine shafts provide an analog to natural caves that are also by roosting bats.  Nine Yellowlist bat species may occur in Nevada County, and seven of those species may use natural Caves or artificial Mine Shafts as diurnal or maternity roosting sites. These may include yuma myotis, long-eared myotis, fringed myotis, pallid bat, pale Townsend’s big-eared bat, and western mastiff bat (Zeiner et al. 1990). </p>
       <p>
 <b>Other Data Themes</b></p>
-      <h3><i>Elevation Range</i></h3>
+      <h3 id="c3-elevation-range"><i>Elevation Range</i></h3>
       <p>Nevada County is characterized by a large range of elevations from its western border with Yuba County to the Nevada stateline to the east (<a href="/tables-figures#f2">Figure 3-42</a>). The lowest regions occur in the southwestern part of the county near Camp Far West Reservoir (about 250 feet). In the central-east, a series of peaks along the Sierra crest approach 9,000 and the county’s highest location is Mount Lola (9,142 feet), northwest of Truckee.</p>
-      <h3>
+      <h3 id="c3-slope">
 <i>Slope</i></h3>
       <p>Nevada County is characterized by having many high peaks and several steep river gorges, along with many more gradual slopes (<a href="/tables-figures#f2">Figure 3-43</a>). The county’s western regions are generally gently sloping, with the exception of the South Yuba River canyon, which cuts from east to west through the northwestern parts of the county. The west-central part of the county north of Highway 20 is generally very steep and rugged. The high elevation center of the county supports the highest and steepest peaks.  The east slope is an extremely steep escarpment, with more gradual slopes to the east of Truckee.  However, the lower Truckee River canyon also has very steep slopes.</p>
-      <h3>
+      <h3 id="c3-public-private">
 <i>Public and Private Lands</i></h3>
       <p>Private lands cover about 402,500 acres and represent about 65% of Nevada County (Table 3-1).  Primary concentrations of private lands exist in the western and eastern portions of the county, while the central portions of the county are mostly public land, or a checkerboard of private/public lands (<a href="/tables-figures#f2">Figure 3-44</a>).  Public lands are concentrated in the central and eastern parts of the county, and generally occur at higher elevations. The exception is DFG’s Spenceville Wildlife Management Area (WMA) at low elevations in the southwestern part of the county. Public lands cover about 220,700 acres or about 35% of the county (Table IX-3). Public lands in Nevada County are owned and managed by USFS (Tahoe National Forest), BLM, DFG, the County of Nevada, and the cities of Grass Valley and Nevada City and the Town of Truckee.</p>
-      <h3>
+      <h3 id="c3-roads">
 <i>Roads and Roadless Areas</i></h3>
       <p>Roads are very abundant and widespread throughout Nevada County, except in the South Yuba Canyon and the Grouse Lakes and Castle Peak/Basin Peak Regions (<a href="/tables-figures#f2">Figure 3-45</a>). Roads visible from aerial photos extend over 4,268 miles in the county (Table IX-3). This total does not cover all logging and skid roads which are not consistently visible on aerial photographs or tracked by state and federal agencies.</p>
       <p>
 Roadless Areas were defined as roadless regions greater than 250 acres where no place is less than 328 feet from a road (Henjum et al. 1994). In Nevada County Roadless Areas cover 273,101 acres or about 44% of the county’s total land area (Table IX-3). They are concentrated in the extreme southwestern regions, along the South Yuba River canyon, and in the Grouse Lakes and Castle Peak Regions. Some roadless areas also occur in the extreme eastern parts of the county along Interstate 80 (<a href="/tables-figures#f2">Figure 3-46</a>).</p>
-      <h3>
+      <h3 id="c3-unimproved-lands">
 <i>Contiguous Unimproved Private Lands Greater Than 80 Acres</i></h3>
       <p>Large, contiguous tracts of undeveloped private land greater than 80 acres cover about 242,140 acres, or about 39% of Nevada County (Table IX-3). These lands are either in large parcels or comprised of smaller, undeveloped parcels that are directly adjacent to other large, undeveloped parcels. The largest tracts of undeveloped private land occur in the southwest part of the county near the Spenceville WMA, in the Steephollow Creek region, along the northwest border of the county, north of Interstate 80 near the Sierra crest, and in the extreme eastern parts of the county north and south of I-80 (<a href="/tables-figures#f2">Figure 3-47</a>).</p>
-      <h3>
+      <h3 id="c3-arable-lands">
 <i>Arable Lands</i></h3>
       <p>Arable Lands are those soils and slopes that are best suited to agriculture. The Nevada Irrigation District (NID) commissioned a study of the Arable Lands of Nevada County. Based on mapping from this study, Arable Lands cover about 35,150 acres, or about 5.6% of the county (Table IX-3). They are mostly concentrated in a north-south running belt east of the Spenceville WMA and west of Highway 49 (<a href="/tables-figures#f2">Figure 3-48</a>). </p>
-      <h3>
+      <h3 id="c3-irrigated-lands">
 <i>Irrigated Lands</i></h3>
       <p>Irrigated Lands were mapped to include the subset of Arable Lands that receive irrigation water from NID (<a href="/tables-figures#f2">Figure 3-49</a>).  This total does not include lands that may receive irrigation water from sources other than NID, but these are not tracked accurately by any local, state or federal agency. NID-irrigated lands cover 6,115 acres or about 1% of the county (Appendix IX).</p>
-      <h3>
+      <h3 id="c3-canals">
 <i>Canals</i></h3>
       <p>More than 300 miles of public Canals exist in Nevada County (Appendix IX).  Most of these are operated by NID, but other private canal and aqueduct systems also exist in the county that were not mapped or included in the Canal distance calculations. Most of the county’s Canals are concentrated in the regions south of Highway 20 and west of Highway 49 (<a href="/tables-figures#f2">Figure 3-50</a>).</p>
       <p class="continued"><span class="continued"><a href="javascript:history.go(-1);">&lt;&lt; previous page</a></span><b><br>

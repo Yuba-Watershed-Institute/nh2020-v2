@@ -10,20 +10,20 @@ const html = `
       <span class="header1">Executive Summary
 </span>      </h1>
       <p><b><font size="1">CHAPTER I.  INTRODUCTION</font></b></p>
-      <h2>
+      <h2 id="es-background">
 <b>Background</b></h2>
       <p><img src="/images/redfoxpup.jpg" style="max-width:200px" class="img-float-left">The goal of this Natural Resources Report is to provide a scientifically accurate account of the distribution and characteristics of Nevada County’s ecosystems and plant and animal species. This report and its associated maps and electronic databases can be used for the next General Plan update.  They should also enable the Board of Supervisors (Board) and the Community Development Agency staff to make more informed decisions on the immediate and cumulative effects of various projects on the county’s natural resources. At the Board’s direction, this report is a data summary only and it does not contain any conclusions, recommendations, or rankings of the county’s watersheds or natural resources. </p>
       <p>
 The data and findings of this report are not intended to be a substitute for site-specific surveys and biological resource analysis on lands that are proposed for future development or land use conversions.  However, this report will provide much useful information on Nevada County’s biological resources for local, state and federal agencies, private landowners, land trusts, developers, scientific organizations, and members of the general public. </p>
-      <h2>
+      <h2 id="es-sac">
 <b>Scientific Advisory Committee and Science Team</b></h2>
       <p>The Scientific Advisory Committee (SAC) for the Natural Heritage 2020 project consisted of seven highly qualified scientists from universities, state and federal agencies, and non-governmental organizations. The SAC was advisory to the Board and to the Community Advisory Committee and its working groups.  A Science Team was hired by the Sierra Business Council to obtain information on the county’s biological resources, to organize this information into a Geographic Information System (GIS) electronic database, and to verify the information in the field.  </p>
       <p>
 <b><font size="1">CHAPTER 2.  METHODS</font></b></p>
-      <h2>
+      <h2 id="es-mapping">
 <b>Mapping by Watershed</b></h2>
       <p>Watersheds were selected as the units for mapping the physical and biological resource information (Appendix IX).  Nevada County has three major drainage basins or watersheds, the Yuba, Bear, and Truckee.  The Yuba and Bear rivers originate near the Sierra Crest and drain into the Feather River which in turn drains into the Sacramento River and eventually the Pacific Ocean.  The Truckee River originates in Lake Tahoe and flows to Pyramid Lake, Nevada. Each of these large river drainages can be subdivided into smaller watersheds. The California Watershed Map (CALWATER 2.0) lists 98 planning watersheds greater than 150 acres in Nevada County; the division of the unusually large Wolf Ditch watershed into three sub-basins yielded the final 100 watersheds used in this report.</p>
-      <h2>
+      <h2 id="es-databases">
 <b>Compilation of the Databases</b></h2>
       <p>Biological and physical resource information for each watershed was obtained from a variety of published sources and existing electronic databases that are maintained by universities and local, state, and federal agencies.  Only the most current, scientifically accurate information available was used. More than 200 electronic databases were evaluated, but only about 40 of these were incorporated into the GIS database (Appendix VII).</p>
       <p>
@@ -34,15 +34,15 @@ The approximate locations of small-patch ecosystems (i.e., small, biologically i
 Species lists of vascular plants (Appendix I) and vertebrate animals (Appendix IV) were compiled from university and agency databases, published literature, and consultations with agency personnel and knowledgeable local naturalists.  “Redlist” species were defined as taxa that are listed as threatened, endangered, or candidates on state or federal endangered species lists.  “Yellowlist” species include all other sensitive or special concern taxa that are included in state or federal agency or California Native Plant Society lists.  Summaries of Redlist and Yellowlist plants (Appendix II) and vertebrates (Appendix V) with known or potential occurrences in the county were prepared.</p>
       <p>
 A Nevada County Wildlife Habitat Relationship (NCWHR) matrix was prepared to summarize the occurrence of native vertebrates in each of the county’s large-patch ecosystems (Appendix VI).  A matrix of the NCWHR habitat associations of all Redlist and Yellowlist plants also was prepared (Appendix III).</p>
-      <h2>
+      <h2 id="es-verification">
 <b>Verification and Validation</b></h2>
       <p>All selected data themes were evaluated in both the office and field to verify their accuracy.  The Science Team performed reconnaissance-level surveys in each of the 100 watersheds to field-verify the GIS-based maps and databases to ensure that they were accurate. Access to individual watersheds was gained through public roads, public lands, and some private lands by written invitation from the owners.  No trespassing on private lands occurred during the field surveys.</p>
-      <h2>
+      <h2 id="es-peer-review">
 <b>Peer Review</b></h2>
       <p>A draft report was prepared and internally reviewed by the Science Team. Summaries of plant and animal occurrences, including listed and other Redlist and Yellowlist species, were critiqued by several agency and private-sector biologists with detailed knowledge of the northern Sierra Nevada.  The draft report was reviewed by members of the SAC who provided detailed comments on the text, the associated appendices, and the GIS-based maps.  Their suggestions were incorporated into a second draft report that was sent for further peer review to other biologists selected by citizens groups from within the county.</p>
       <p>
 <b><font size="1">CHAPTER 3.  RESULTS</font></b></p>
-      <h2>
+      <h2 id="es-species">
 <b>Species Occurrence and Habitat Relationships</b></h2>
       <h3><i>Plant diversity</i></h3>
       <p>Nevada County supports a rich flora of 1,841 documented plant species.  This represent about 26% of the total number of plant species in California.  Approximately 350 of the 1,841 species are non-natives.  Several species reach their distributional limits in the County (e.g., whitebark pine), and a few species, such as knobcone pine, have disjunct populations here.  Disjunct populations may be genetically unique and vulnerable to extinction.</p>
